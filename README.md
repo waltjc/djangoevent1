@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto feito durante o curso de Django!
 
 ## ⚙ Sobre o projeto
@@ -15,5 +14,3 @@ de botões. No projeto também é possível notar habilidades de HTML e CSS.
 Uma demonstração pode ser vista no seguinte link:
 https://djangoevent1.herokuapp.com/
 =======
-# djangoevent1
->>>>>>> ca568aa72abc387dea13343f84ab1faffd849611
